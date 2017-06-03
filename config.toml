@@ -1,3 +1,23 @@
 languageCode = "en-us"
 title = "Growing Happy Developers"
 baseURL = "https://mpalomera.github.io/"
+author = "Miguel Palomera"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Growing Happy Developers"
+
+[[menu.main]]
+    name = "  Home"
+    url  = "https://mpalomera.github.io/home"
+[[menu.main]]
+    name = " Courses"
+    url  = "https://mpalomera.github.io/courses"
+[[menu.main]]
+    name = "Books"
+    url  = "https://mpalomera.github.io/books"
