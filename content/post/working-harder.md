@@ -4,10 +4,12 @@ highlight = true
 math = false
 date = "2017-07-29T17:44:58-05:00"
 title = "Working harder building the wrong thing"
-
+summary = """
+I did it again, I expended two days and one night building "Y". The weird thing, one more time, nobody asked for "Y".
+"""
 [header]
-  caption = ""
-  image = ""
+  caption = " Image credit: http://www.tamingdata.com/2010/07/08/the-project-management-tree-swing-cartoon-past-and-present/ "
+  image = "tree-swing-project-management-large.png"
 
 +++
 

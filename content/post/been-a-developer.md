@@ -5,7 +5,7 @@ tags = []
 highlight = true
 math = false
 summary = """
-I still remember what my mom said to me every night: "Kid 
+I still remember what my mom said to me every night:  "Kid keep studying so you don't have to work as hard as I have to do. 
 """
 [header]
   caption = "Image credit: By Arkady Arkagorodsky - Public Domain, https://commons.wikimedia.org/w/index.php?curid=58353093 "
